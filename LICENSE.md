@@ -1,3 +1,4 @@
+# Daily COVID-19 Numbers License Agreement
 Licensing information for the daily_numbers data is available at [this link](https://learn.broadstreet.io/legal/). The data are provided  
 "AS IS" without any warranty, express or implied, from BroadStreet. BroadStreet disclaims all liability  
 for any damages, direct or indirect, resulting from the use of the dataset. Specifically, make note of  
