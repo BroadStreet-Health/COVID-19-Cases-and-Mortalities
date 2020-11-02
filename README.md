@@ -1,4 +1,11 @@
-# BroadStreet Covid-19 Data Project (daily_numbers)
+<a href="https://covid19dataproject.org/">
+    <img src="https://covid19dataproject.org/wp-content/uploads/2020/04/LOGO-Broadstreet-covid19.svg" alt="Broadstreet logo" title="BroadStreet" align="right" height="80" />
+</a>
+
+Broadstreet COVID-19 Data Project
+=================================
+
+## Daily Numbers
 
 We created the [Covid-19 Data Project](https://covid19dataproject.org/data/) in March to satisfy the driving need for accessible data tracking the spread of the coronavirus across the United States. In response to this public health emergency, BroadStreet is releasing data files with cumulative counts of coronavirus cases and mortalities in the United States and their territories, at the county level, from January 20th, 2020 to present. Over 120 interns and volunteers were recruited via the BroadStreet website, and through institutional reference for interested undergraduate or graduate students. The project quickly grew as the virus spread, leading to a large data set involving historical and present data collection, input, and analysis. The data team tracked daily numbers of deaths and cases throughout the entire United States at the county level. 
 
