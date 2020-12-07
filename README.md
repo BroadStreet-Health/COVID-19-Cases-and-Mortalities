@@ -51,29 +51,31 @@ Case and death totals are typically included in our data on the date they were r
 
 <ul>
 <li>Georgia: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
-<li>Tennessee: Reports total cases by date of symptom onset. This is used in our data.</li>
-<li>Ohio: Reports cases by date of symptom onset, and deaths by date of death. Both is used in our data.</li>
 <li>Indiana: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
-<li>Michigan: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
-<li>Wisconsin: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
-<li>Oklahoma: Reports cases by date of symptom onset. This is used in our data.</li>
 <li>Kansas: Reports cases by date of diagnosis. This is used in our data.</li>
+<li>Michigan: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
+<li>New York City: New York City reports case totals by date of diagnosis, and death totals by date of death. Both are used in our data.</li>
+<li>Ohio: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
+<li>Oklahoma: Reports cases by date of symptom onset. This is used in our data.</li>
 <li>Oregon: Reports deaths by date of death. Reports statewide case totals by date of symptom onset. Both are used in our data.</li>
+<li>Tennessee: Reports total cases by date of symptom onset. This is used in our data.</li>
+<li>Virginia: Reports statewide case totals by date of diagnosis, and statewide death totals by date of death. Both are used in our data.</li>
 <li>Washington: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
+<li>Wisconsin: Reports cases by date of symptom onset, and deaths by date of death. Both are used in our data.</li>
 </ul>
 
 ## Geographic Exceptions
 
 <ul>
 <li>Massachusetts: Duke and Nantucket county totals were included together until 8/19</li>
-<li>New Hampshire: Manchester and Nashua county totals are included in Hillsborough county</li>
-<li>New York: We do not record data for the individual boroughs of New York CIty, and instead record all data in the New York City totals</li>
 <li>Michigan: Detroit City is included within Wayne County totals</li>
 <li>Missouri: Joplin City totals are included within Jasper County totals</li>
 <li>Missouri: Kansas City totals are included within Jackson County totals</li>
-<li>Utah: Cases from the Ute tribe are entered into the unknown row</li>
 <li>Nevada: Cases from the Shoshone tribe are entered into the unknown row</li>
-<li>Puerto Rico: All deaths are entered into the unknown row</li>
+<li>New Hampshire: Manchester and Nashua county totals are included in Hillsborough county</li>
+<li>New York: We began recording data for individual boroughs of NYCnstead record all data in the New York City totals.</li>
+<li>Puerto Rico: All deaths are entered into the unknown row.</li>
+<li>Utah: Cases from the Ute tribe are entered into the unknown row</li>
 </ul>
 
 ## Attributions
